@@ -1,1 +1,4 @@
-mokutil --sb-state
+commadn: mokutil --sb-state
+package: mokutil
+
+If you have BIOS mode, you get an error or it shows no secure boot.
