@@ -1,0 +1,27 @@
+"xfce4",
+			"xfce4-goodies",
+			"pavucontrol",
+			"gvfs",
+			"xarchiver"
+
+
+
+'pipewire',
+			'pipewire-alsa',
+			'pipewire-jack',
+			'pipewire-pulse',
+			'gst-plugin-pipewire',
+			'libpulse',
+			'wireplumber'
+
+'nano',
+			'vim',
+			'openssh',
+			'htop',
+			'wget',
+			'iwd',
+			'wireless_tools',
+			'wpa_supplicant',
+			'smartmontools',
+			'xdg-utils'
+
